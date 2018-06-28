@@ -125,7 +125,7 @@ const mycelium = {
 
 mycelium
 	.load({
-		src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/222599/mannequin-bots.jpg",
+		src: "https://images.unsplash.com/photo-1530089542225-c4645f98cbe4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f9e7dee94ad6509cefa2b0122bf7e7b5&auto=format&fit=crop&w=1350&q=80",
 		numHyphae: 400,
 		maxTurn: 0.4,
 		step: 0.1,
