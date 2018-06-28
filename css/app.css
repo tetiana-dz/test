@@ -1,0 +1,27 @@
+html {
+	overflow: hidden;
+	touch-action: none;
+	content-zooming: none;
+}
+body {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	background: #161514;
+	width: 100%;
+	height: 100%;
+}
+canvas {
+	width: 100vw; 
+	height: 67.18vw;
+	background: #000;
+	max-height: 100vh;
+	max-width: 148vh;
+	margin: auto;
+	position: absolute;
+	top:0;
+	bottom:0; 
+	left:0;
+	right:0;
+	cursor: pointer;
+}
