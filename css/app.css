@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    width: 1160px;
+    padding: 0 15px;
+}
+
+.catalog-form-input-wrap {
+    display: flex;
+}
